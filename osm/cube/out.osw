@@ -1,0 +1,21 @@
+{
+   "completed_at" : "20230110T190209Z",
+   "completed_status" : "Fail",
+   "created_at" : "20230110T185704Z",
+   "current_step" : 0,
+   "eplusout_err" : "Program Version,EnergyPlus, Version 9.2.0-921312fa1d, YMD=2023.01.10 13:02,\n   ** Severe  ** <root>[Site:Location] - Object contains properties that could not be validated using 'properties' or 'additionalProperties' constraints\n   ** Severe  ** <root>[Site:Location] - Object name is required and cannot be blank or whitespace\n   **  Fatal  ** Errors occurred on processing input file. Preceding condition(s) cause termination.\n   ...Summary of Errors that led to program termination:\n   ..... Reference severe error count=2\n   ..... Last severe error=<root>[Site:Location] - Object name is required and cannot be blank or whitespace\n   ************* Warning:  Node connection errors not checked - most system input has not been read (see previous warning).\n   ************* Fatal error -- final processing.  Program exited before simulations began.  See previous error messages.\n   ************* EnergyPlus Warmup Error Summary. During Warmup: 0 Warning; 0 Severe Errors.\n   ************* EnergyPlus Sizing Error Summary. During Sizing: 0 Warning; 0 Severe Errors.\n   ************* EnergyPlus Terminated--Fatal Error Detected. 0 Warning; 2 Severe Errors; Elapsed Time=00hr 00min  0.23sec\n",
+   "file_paths" : [
+      "C:/Users/gbv/AppData/Local/Temp/OpenStudioApp.xb6376/resources/generated_files",
+      "./files",
+      "./weather",
+      "../../files",
+      "../../weather",
+      "./"
+   ],
+   "hash" : "2180A4DC",
+   "seed_file" : "../cube.osm",
+   "started_at" : "20230110T190208Z",
+   "steps" : [],
+   "updated_at" : "20230110T190209Z",
+   "weather_file" : "DEU_HH_Hamburg-Fuhlsbuttel_101470_TRY2010_03_Jahr_BBSR.epw"
+}

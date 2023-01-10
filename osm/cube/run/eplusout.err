@@ -1,0 +1,12 @@
+Program Version,EnergyPlus, Version 9.2.0-921312fa1d, YMD=2023.01.10 13:02,
+   ** Severe  ** <root>[Site:Location] - Object contains properties that could not be validated using 'properties' or 'additionalProperties' constraints
+   ** Severe  ** <root>[Site:Location] - Object name is required and cannot be blank or whitespace
+   **  Fatal  ** Errors occurred on processing input file. Preceding condition(s) cause termination.
+   ...Summary of Errors that led to program termination:
+   ..... Reference severe error count=2
+   ..... Last severe error=<root>[Site:Location] - Object name is required and cannot be blank or whitespace
+   ************* Warning:  Node connection errors not checked - most system input has not been read (see previous warning).
+   ************* Fatal error -- final processing.  Program exited before simulations began.  See previous error messages.
+   ************* EnergyPlus Warmup Error Summary. During Warmup: 0 Warning; 0 Severe Errors.
+   ************* EnergyPlus Sizing Error Summary. During Sizing: 0 Warning; 0 Severe Errors.
+   ************* EnergyPlus Terminated--Fatal Error Detected. 0 Warning; 2 Severe Errors; Elapsed Time=00hr 00min  0.23sec

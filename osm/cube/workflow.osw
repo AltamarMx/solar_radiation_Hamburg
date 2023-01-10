@@ -1,0 +1,7 @@
+{
+   "created_at" : "20230110T185704Z",
+   "seed_file" : "../cube.osm",
+   "steps" : [],
+   "updated_at" : "20230110T190200Z",
+   "weather_file" : "DEU_HH_Hamburg-Fuhlsbuttel_101470_TRY2010_03_Jahr_BBSR.epw"
+}
